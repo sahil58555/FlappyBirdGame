@@ -1,0 +1,14 @@
+/* App.css */
+.game-controls {
+    position: fixed;
+    bottom: 50px;
+    right: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .play-button,
+  .scorecard-button {
+    margin-bottom: 10px;
+  }
+  
